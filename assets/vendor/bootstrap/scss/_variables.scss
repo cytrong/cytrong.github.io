@@ -164,9 +164,9 @@ $sizes: map-merge(
 // Body
 //
 // Settings for the `<body>` element.
-
-$body-bg:                   $white !default;
-$body-color:                $gray-900 !default;
+// BACKGROUND COLOR
+$body-bg:                   #000 !default;
+$body-color:                #fff !default;
 
 
 // Links
@@ -1128,7 +1128,7 @@ $kbd-font-size:                     $code-font-size !default;
 $kbd-color:                         $white !default;
 $kbd-bg:                            $gray-900 !default;
 
-$pre-color:                         $gray-900 !default;
+$pre-color:                         #e9950c !default;
 $pre-scrollable-max-height:         340px !default;
 
 
