@@ -32,6 +32,7 @@ pre {
   display: block;
   @include font-size($code-font-size);
   color: $pre-color;
+  background-color: #212529;
 
   // Account for some code outputs that place code tags in pre tags
   code {
