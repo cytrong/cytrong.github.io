@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6a809722f4cb8b70",
+        "id": "b3a28376e02813ed",
         "type": "tabs",
         "children": [
           {
-            "id": "4a84d7c6af0a294b",
+            "id": "fd179f046f2643dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-07-05-AI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-07-05-AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-07-05-AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-07-05-AI.md"
+              }
             }
           }
         ]
@@ -138,6 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a84d7c6af0a294b",
-  "lastOpenFiles": []
+  "active": "ff39ec5278cb6338",
+  "lastOpenFiles": [
+    "_site/2023/07/06/AI.html",
+    "_site/2023/07/06",
+    "_site/2023/07",
+    "_site/2023",
+    "_site/2023/07/06/2023-07.html",
+    "_site/2023/07/06/2023-07.html",
+    "_site/img/posts/01.jpg",
+    "img/posts/01.jpg",
+    "_site/img/posts/cute-dog-brtwwfga72pilv0j.jpg",
+    "_site/img/posts/2023-07.jpg",
+    "_site/img/posts/2023-07.jpg",
+    "img/posts/cute-dog-brtwwfga72pilv0j.jpg",
+    "_site/images/2023-07-1.png",
+    "_site/images/2023-07-2.png",
+    "_site/images/2023-07-2.png",
+    "images/2023-07-1.png",
+    "_site/images/index.html",
+    "_site/images/2023-07.html",
+    "images/index.html",
+    "_site/images/2023-07.txt",
+    "_site/images/2023-07-1.txt",
+    "_posts/2023-07-05-AI.md",
+    "Untitled.canvas",
+    "_site/Untitled.canvas",
+    "_posts/Pasted image 20230706011500.png.md",
+    "'/Pasted.md",
+    "_site/'/Pasted.md",
+    "_site/README.md"
+  ]
 }
